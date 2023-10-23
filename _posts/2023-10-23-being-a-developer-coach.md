@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being a Developer Coach: What I Learned in 2 Years
+title: Being a Developer Coach - What I Learned.
 categories: [management, coach, en]
 ---
 
